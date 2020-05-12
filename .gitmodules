@@ -1,0 +1,3 @@
+[submodule "yolo-v3"]
+	path = yolo-v3
+	url = https://github.com/theAIGuysCode/yolo-v3.git
